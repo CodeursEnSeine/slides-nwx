@@ -1,6 +1,6 @@
-# Présentation de la conférence Codeurs en Seine à NWX 2013
+# Présentation de la conférence [Codeurs en seine](http://www.codeursenseine.com) à NWX 2013
 
-### powered by reveal.js (http://lab.hakim.se/reveal-js/?#/)
+### powered by [reveal.js] (http://lab.hakim.se/reveal-js/?#/)
 
 
 ### License
